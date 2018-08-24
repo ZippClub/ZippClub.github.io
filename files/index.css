@@ -1,0 +1,8 @@
+.center {
+    text-align: Center;
+}
+
+.title {
+    border-right: Red 2px;
+    background-color: Grey;
+}
